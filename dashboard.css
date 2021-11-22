@@ -16796,7 +16796,7 @@ svg {
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "lucide";
-    src: url(".fonts/lucide/lucide.svg#lucide") format("svg");
+    src: url("./fonts/lucide/lucide.svg#lucide") format("svg");
   }
 }
 
