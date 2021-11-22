@@ -16787,17 +16787,9 @@ svg {
   src: url("./fonts/lucide/lucide.eot?#iefix") format("embedded-opentype"),
        url("./fonts/lucide/lucide.woff2") format("woff2"),
        url("./fonts/lucide/lucide.woff") format("woff"),
-       url("./fonts/lucide/lucide.ttf") format("truetype"),
-       url("./fonts/lucide/lucide.svg#lucide") format("svg");
+       url("./fonts/lucide/lucide.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
-}
-
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-  @font-face {
-    font-family: "lucide";
-    src: url("./fonts/lucide/lucide.svg#lucide") format("svg");
-  }
 }
 
 [data-icon]:before { content: attr(data-icon); }
