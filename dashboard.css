@@ -16787,7 +16787,7 @@ svg {
        url("./fonts/lucide/lucide.ttf") format("truetype");
 }
 
-.icon {
+.lucide {
   font-family: "lucide" !important;
   font-style: normal;
   font-weight: normal;
